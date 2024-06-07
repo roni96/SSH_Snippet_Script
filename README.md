@@ -1,5 +1,7 @@
 # Smart Script Manager
 
+[EM DESENVOLVIMENTO]
+
 Desenvolvimento de um app que permite configurar scripts para serem executado via conexão SSH. Automatizando a execução de scripts
 
 Necessário criar uma pasta chamada Scripts e adicionar os seus scrips la dentro.  
