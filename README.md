@@ -4,7 +4,7 @@
 EM DESENVOLVIMENTO!
 
 Desenvolvimento de um app que permite configurar scripts para serem executado via conexão SSH. Automatizando a execução de scripts
-Necessário criar uma pasta chamada Scripts e adicionar os seus scrips dentro.  
+Necessário criar uma pasta nomeada "scripts" (sem as aspas) e adicionar os seus scrips dentro.  
 
 Variavel aceita pelo gerenciador:
 
