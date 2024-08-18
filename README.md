@@ -1,6 +1,6 @@
 # Smart Script Manager
 
-> ![IMPORTANT]    
+> [!IMPORTANT]    
 [EM DESENVOLVIMENTO]
 
 Desenvolvimento de um app que permite configurar scripts para serem executado via conexão SSH. Automatizando a execução de scripts
