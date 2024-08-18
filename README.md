@@ -15,5 +15,3 @@ system edit $(valor2)
 ```
 
 Ao abrir o programa e escolher o script vai ser gerado os campos para preenxer as informações das variaveis.    
-
-Em breve novas novidades!
